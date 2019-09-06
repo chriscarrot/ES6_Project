@@ -1,10 +1,10 @@
 "use strict";
 
-var create = document.createElement("h1");
-var node = document.createTextNode("Bro Code");
-create.appendChild(node);
-var element = document.getElementById("div1");
-element.appendChild(create);
+// var create = document.createElement("h1");
+// var node = document.createTextNode("Bro Code");
+// create.appendChild(node);
+// var element = document.getElementById("div1");
+// element.appendChild(create);
 
 var create = document.createElement("p");
 var node1 = document.createTextNode("We are two bros that have been cooling it since the beginning of freshman year. We have done things from party together fight together, laugh together, work together, volunteer together, etc. We are proud to say that we have been bros for 4 years. We have grown as people and we have seen the highs and lows of each others lives making us close than regular friends.");
